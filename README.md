@@ -1,2 +1,3 @@
 # shibapp
-An app with information about shiba inus. Testing app compiling vs PWA 
+An Ionic PWA with information about shiba inus. 
+Testing app compiling vs PWA 
