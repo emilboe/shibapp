@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=io.shibapp.starter">
-    <img src="https://i.imgur.com/zdSZVAb.png" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/zdSZVAb.png" alt="Logo" width="80" height="80" style="border-radius:20px">
   </a>
 
   <h3 align="center">Shibapp</h3>
